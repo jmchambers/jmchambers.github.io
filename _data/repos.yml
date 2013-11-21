@@ -1,0 +1,4 @@
+- name: mm_uses_uuid
+  url: https://github.com/jmchambers/mm_uses_uuid
+- name: dry_haml_handlebars
+  url: https://github.com/jmchambers/dry_haml_handlebars
